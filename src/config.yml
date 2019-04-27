@@ -1,0 +1,145 @@
+messages:
+  ConfigReload: "&aConfiguration reloaded"
+  JoinMessage: "&7[&a&lAdvancedReport&7] &aWelcome back! Please, see a new reports via &3/reports"
+  PlayerAlreadyReported: "&cPlayer has been already reported. Please wait until administrator check them"
+  ReportedSuccessfully: "&aPlayer &3%player% &areported successfully"
+  CreateReportNotify: "&7[&4&lREPORT INFO&7] &cPlayer &3%player% &chas just sent a report. Please see &3/reports"
+  PlayerNotFound: "&cUser has never been reported"
+  ForPlayersOnly: "&cThis command is for players only"
+  ReportDeleted: "&aReport deleted successfully"
+  ReportDeletedNotify: "&7[&a&lAdvancedReports&7] &3%commandExecutor% &ahas just deleted &3%player%&a's report"
+  GetProof: "&7Click here to get a proof of a report"
+  HereIsAProof: "&aHere is a proof: &3%proof%"
+  GUIAllReportsName: "&c&lRecent reports"
+  GUISpecifiedReportName: "&c&lSelect an action"
+  GUIBanReasonsName: "&c&lSelect a ban reason"
+  GUIGoBack: "&3&lGo back"
+  BanWarning: "&4WARNING: &cDO THIS &4&nONLY&r&c IF YOU KNOW WHAT ARE YOU DOING"
+  ReportedBy: "&3&l%player% &c&lreported by &3&l%reportedBy%"
+  ReportReason: "&c&lReport reason: &3&l%reportReason%"
+  DeleteReport: "&c&lDelete this report"
+  KickPlayer: "&c&lKick player"
+  BanPlayer: "&c&lBan player"
+  KillPlayer: "&c&lKill player"
+  ReasonNotFound: "&cReason not found. Check the order in config"
+  MoreThan27Slots: "&cYou cannot use more than &327 &cslots for ban reasons. Please check &3config.yml"
+  MoreThan27Reports: "&cThere are more than &327 reports &cat the moment. Please wait until the administration check them"
+  Error: "&cAn error occurred. Please check &3config.yml &cwith carefully reading documentation"
+  NoReportsFound: "&cNo reports found"
+
+setting:
+  EnableJoinMessage: true
+  CreateEnableReportNotify: true
+  DeleteReportNotify: true
+
+playerReportDisplayItem: BEDROCK
+
+banreasons:
+  0:
+    reason: "0"
+    time: "1d"
+    displayItem: CHEST
+  1:
+    reason: "1"
+    time: "1d"
+    displayItem: CHEST
+  2:
+    reason: "2"
+    time: "1d"
+    displayItem: CHEST
+  3:
+    reason: "3"
+    time: "1d"
+    displayItem: CHEST
+  4:
+    reason: "4"
+    time: "1d"
+    displayItem: CHEST
+  5:
+    reason: "5"
+    time: "1d"
+    displayItem: CHEST
+  6:
+    reason: "6"
+    time: "1d"
+    displayItem: CHEST
+  7:
+    reason: "7"
+    time: "1d"
+    displayItem: CHEST
+  8:
+    reason: "8"
+    time: "1d"
+    displayItem: CHEST
+  9:
+    reason: "9"
+    time: "1d"
+    displayItem: CHEST
+  10:
+    reason: "10"
+    time: "1d"
+    displayItem: CHEST
+  11:
+    reason: "11"
+    time: "1d"
+    displayItem: CHEST
+  12:
+    reason: "12"
+    time: "1d"
+    displayItem: CHEST
+  13:
+    reason: "13"
+    time: "1d"
+    displayItem: CHEST
+  14:
+    reason: "14"
+    time: "1d"
+    displayItem: CHEST
+  15:
+    reason: "15"
+    time: "1d"
+    displayItem: CHEST
+  16:
+    reason: "16"
+    time: "1d"
+    displayItem: CHEST
+  17:
+    reason: "17"
+    time: "1d"
+    displayItem: CHEST
+  18:
+    reason: "18"
+    time: "1d"
+    displayItem: CHEST
+  19:
+    reason: "19"
+    time: "1d"
+    displayItem: CHEST
+  20:
+    reason: "20"
+    time: "1d"
+    displayItem: CHEST
+  21:
+    reason: "21"
+    time: "1d"
+    displayItem: CHEST
+  22:
+    reason: "22"
+    time: "1d"
+    displayItem: CHEST
+  23:
+    reason: "23"
+    time: "1d"
+    displayItem: CHEST
+  24:
+    reason: "24"
+    time: "1d"
+    displayItem: CHEST
+  25:
+    reason: "25"
+    time: "1d"
+    displayItem: CHEST
+  26:
+    reason: "26"
+    time: "1d"
+    displayItem: CHEST

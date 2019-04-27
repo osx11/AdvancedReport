@@ -1,0 +1,14 @@
+name: AdvancedReport
+main: com.osx11.osx11.Main
+author: osx11
+version: 1.0.0
+commands:
+  arreload:
+    description: Reload plugin configuration
+    usage: "§cUsage: /arreload"
+  report:
+    description: Report a player
+    usage: "§cUsage: /report <player> <reason> [proof]"
+  reports:
+    description: View all reports
+    usage: "§cUsage: /reports"
